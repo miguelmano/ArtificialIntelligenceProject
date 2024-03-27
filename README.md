@@ -1,2 +1,2 @@
 # ArtificialIntelligenceProject
- This project is developed in python and task was to propose an algorithm to solve the traditional game Takuzu
+ Takuzu is a logical game that involves placing two symbols, 1s and 0s, in a grid with the same number of rows and columns. The goal is to fill the grid with 1s and 0s, where there is an equal number of 1s and 0s in each row and column and no more than two of any number adjacent to one another. In addition, there cannot be identical rows or columns. There are several squares to fill. 
